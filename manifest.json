@@ -1,0 +1,21 @@
+{
+  "name": "Aura & Bean • Roastery & Botanical Café",
+  "short_name": "Aura & Bean",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0a08",
+  "theme_color": "#d4a373",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/hero-latte.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "images/hero-latte.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
